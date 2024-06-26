@@ -1,0 +1,32 @@
+Designing:-
+
+Acoount
+    cust
+        savings
+            facilities: fd offered, rd offered, interest, loan.
+        
+        business/current
+            more transaction limit
+            no interest loan
+            higher opening charges
+            faster access to the bank employee
+
+    employee : automation based
+        manager; only human role for now i can think of
+            higher salary
+                POWERS: 
+                    w/o logging in the bank won't work i.e. will be on off.
+        cashier; automated
+
+        accountant; automated 
+
+
+Facilities offered:-
+    Loan
+    Locker
+    FD
+    RD
+    
+
+
+    

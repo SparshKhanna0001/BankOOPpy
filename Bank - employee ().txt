@@ -1,0 +1,5 @@
+Bank -> employee ()
+Bank -> accounts
+Bank -> customers
+Bank -> Login 
+

@@ -1,1 +1,2 @@
-import Bank.
+from Bank import Account, Customer
+
