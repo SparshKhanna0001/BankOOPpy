@@ -91,12 +91,11 @@ class Bank:
     """Bank will only be able to give loan if and only if it has sufficient amt itself"""
     CUSTOMERS = {}
     AMOUNT = 100000
+    report = open("Bank_Report.txt", "x+")
 
     def __init__(self, Name) -> None:
         self.Name = Name
-        self.report = open("Bank_Report.txt", "x+")
-
-        
+    #    self.report = open("Bank_Report.txt", "x+")
 
     @staticmethod
     def loan_approval(amt) -> bool:
@@ -107,7 +106,8 @@ class Bank:
     
     @staticmethod
     def open():
-        
+        m
+
 
 class Manager:
     """Manager has the power to open the bank and w/o manager consent it won't open
@@ -121,4 +121,4 @@ class Manager:
     def open_Bank():
         return True
 
-    def
+    def 

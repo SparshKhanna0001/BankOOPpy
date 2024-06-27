@@ -1,1 +1,1 @@
-The main aim of the BankBasic is to act as a compromise to my initial plan which included using the sqlite3 based database for Bank but due to planning failures, BankBasic has to be used.
+The main aim of the BankBasic is to act as a compromise to my initial plan which included using the sqlite3 based database for Bank but due to planning failures, BankBasic has to be used.git 
