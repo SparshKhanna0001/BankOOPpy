@@ -30,3 +30,22 @@ Facilities offered:-
 
 
     
+
+INTERFACE:- 
+interface:
+login/sign up
+log in 
+	name 
+	pswrd
+	
+welcome
+	operations
+	then separate for that.
+
+sign in
+	details
+	operations
+
+Bank 
+	view statement
+	 
